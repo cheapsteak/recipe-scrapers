@@ -340,3 +340,6 @@ Special thanks to:
 ------------------
 
 All the `contributors that helped improving <https://github.com/hhursev/recipe-scrapers/graphs/contributors>`_  the package. You are awesome!
+
+
+
